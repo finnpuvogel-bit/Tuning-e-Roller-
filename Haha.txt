@@ -1,0 +1,12 @@
+{
+  "name": "ninebot-ble-tuner",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WebBluetooth Ninebot Max G3, ZT3 Pro, and F3 Pro Speed & Controller Tuner for Vercel",
+  "scripts": {
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
